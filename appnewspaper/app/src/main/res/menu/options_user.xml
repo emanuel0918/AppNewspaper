@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/menu_1"
+            android:icon="@android:drawable/ic_menu_add"
+            android:title="@string/add_new" />
+        <item android:id="@+id/menu_2"
+            android:icon="@drawable/ic_home"
+            android:title="@string/list_news" />
+        <item android:id="@+id/menu_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout"/>
+    </group>
+    <item
+        android:title="@string/category_name"  android:checkableBehavior="single">
+        <menu  android:checkableBehavior="single">
+            <group  android:checkableBehavior="single">
+
+                <item android:id="@+id/category_all"
+                    android:title="@string/category_name_all"
+                    android:checkable="false"/>
+                <item android:id="@+id/category1"
+                    android:title="@string/category_name1"
+                    android:checkable="false"/>
+
+                <item android:id="@+id/category2"
+                    android:title="@string/category_name2"
+                    android:checkable="false"/>
+
+                <item android:id="@+id/category3"
+                    android:title="@string/category_name3"
+                    android:checkable="false"/>
+
+                <item android:id="@+id/category4"
+                    android:title="@string/category_name4"
+                    android:checkable="false"/>
+            </group>
+        </menu>
+    </item>
+</menu>

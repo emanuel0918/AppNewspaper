@@ -1,0 +1,22 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="marginTopBtn">25dp</dimen>
+    <dimen name="marginNewTemplate">19sp</dimen>
+    <dimen name="marginTopNewTemplate">38sp</dimen>
+    <dimen name="padding">25sp</dimen>
+    <dimen name="textSizeForm">21dp</dimen>
+    <dimen name="textSizeNewTitle">19dp</dimen>
+    <dimen name="textSizeNewSubtitle">14dp</dimen>
+    <dimen name="textSizeNewCategory">21dp</dimen>
+    <dimen name="textSizeNewAbstract">10dp</dimen>
+    <dimen name="card_view_radius">15dp</dimen>
+    <dimen name="spinnerHeight">29dp</dimen>
+    <dimen name="floating_btn_padding">10dp</dimen>
+    <dimen name="text_large1">23dp</dimen>
+    <dimen name="text_small1">18dp</dimen>
+</resources>

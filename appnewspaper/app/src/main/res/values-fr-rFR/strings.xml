@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEWSPAPER APP</string>
+    <string name="newspaper">Nouvelles</string>
+    <string name="user">Utilisateur</string>
+    <string name="password">Mot de Passe</string>
+    <string name="login">S\' identifier</string>
+    <string name="logout">Déconnectez-vous</string>
+    <string name="add_new">Ajouter des Nouvelles</string>
+    <string name="list_news">Liste de Nouvelles</string>
+    <string name="more_options">Plus d\'options</string>
+    <string name="list_local_news">Mes Nouvelles</string>>
+    <string name="title">Titre</string>
+    <string name="subtitle">Sous-titres</string>
+    <string name="category">Catégorie</string>
+    <string name="abstrac">Résumé</string>
+    <string name="body">Contenu</string>
+    <string name="image">Image</string>
+    <string name="description">Description</string>
+    <string name="missing_data">Données Manquantes</string>
+    <string name="new_published">Article Créé</string>
+    <string name="remember_me">Rappelle moi</string>
+    <string name="required_data">Données nécessaires</string>
+    <string name="warning">Attention</string>
+    <string name="data_incorrect">Données incorrectes</string>
+    <string name="loading_articles">Attendre jusqu\'à les nouvelles sont été stocké</string>
+    <string name="ok">D\' accord</string>
+    <string name="error_transaction">Erreur</string>
+    <string name="error_server_login">Cette opération doit se faire en ligne</string>
+    <string name="error_server_add">Cette opération doit se faire en ligne</string>
+    <string name="error_server_modify">Cette opération doit se faire en ligne</string>
+    <string name="error_server_delete">La nouvelle a été supprimée uniquemente dans la BD</string>
+    <string name="title_activity_modify_article_after_login">Modifier l\'Article</string>
+    <string name="category_name">Categories</string>
+    <string name="category_name1">National</string>
+    <string name="category_name2">Economy</string>
+    <string name="category_name3">Sports</string>
+    <string name="category_name4">Technology</string>
+    <string name="category_name_all">Tout</string>
+    <string-array name="category">
+        <item>National</item>
+        <item>Economy</item>
+        <item>Sports</item>
+        <item>Technology</item>
+    </string-array>
+    <string name="action_settings">Réglages</string>
+    <string name="title_activity_login">Nouvelle Session</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de Passe</string>
+    <string name="action_sign_in">S\'identifier ou S\'inscrire</string>
+    <string name="action_sign_in_short">Nouvelle Session</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="invalid_username">Utilisateur pas valide</string>
+    <string name="invalid_password">Le mot de passe doit dépasser 5 caracères</string>
+    <string name="login_failed">Échec de la connexion</string>
+    <string name="button_login">S\'identifier</string>
+    <string name = "imagenModify">Choisir Image</string>
+    <string name = "titleModify">Title</string>
+    <string name = "subtitleModify">Subtitle</string>
+    <string name = "abstractModify">Abstrait</string>
+    <string name = "bodyModify">Contenu</string>
+    <string name = "chooseCategoryModify">Choisir Category</string>
+    <string name = "saveModify">Stocker</string>
+    <string name = "cancelModify">Annuler</string>
+    <string name = "cancel">Annuler</string>
+    <string name = "accept">J\'accepte</string>
+    <string name = "discard_changes">Jetez-le??</string>
+    <string name = "article_modified">L\'article a été modifié</string>
+    <string name = "article_not_modified">Erreur lors de la modification</string>
+    <string name = "modify_article">Jetez-le?</string>
+    <string name = "confirm_deleting">Supprimer l\'article?</string>
+    <string name = "error_deleting">Désolé, une erreur est survenue</string>
+    <string name = "deleted">Supprimé avec succès</string>
+    <string name = "descriptionImage">Description de l\'image *</string>
+    <string name = "titleMandatory">Title *</string>
+    <string name = "subTitleMandatory">Subtitle *</string>
+    <string name = "abstractMandatory">Abstrait *</string>
+    <string name = "bodyMandatory">Contenu *</string>
+
+</resources>

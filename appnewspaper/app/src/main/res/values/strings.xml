@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">NEWSPAPER APP</string>
+    <string name="newspaper">NewsPaper</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="logout">Log Out</string>
+    <string name="add_new">Publish New</string>
+    <string name="list_news">List News</string>
+    <string name="more_options">More Options</string>
+    <string name="list_local_news">List Stored News</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="category">Category</string>
+    <string name="abstrac">Abstract</string>
+    <string name="body">Body</string>
+    <string name="image">Image</string>
+    <string name="description">Description</string>
+    <string name="missing_data">Missing Data</string>
+    <string name="new_published">Article Created</string>
+    <string name="remember_me">Remember me</string>
+    <string name="required_data">Required</string>
+    <string name="warning">Warning</string>
+    <string name="data_incorrect">Data incorrect</string>
+    <string name="ok">Ok</string>
+    <string name="error_transaction">Something went wrong</string>
+    <string name="error_server_login">Can not log without a conection</string>
+    <string name="error_server_add">Can not add without a conection</string>
+    <string name="error_server_modify">Can not modify without a conection</string>
+    <string name="error_server_delete">Could not delete online, only local</string>
+    <string name="loading_articles">Waiting to get the articles</string>
+    <string name="category_name">Categories</string>
+    <string name="category_name1">National</string>
+    <string name="category_name2">Economy</string>
+    <string name="category_name3">Sports</string>
+    <string name="category_name4">Technology</string>
+    <string name="category_name_all">All</string>
+
+    <string-array name="category">
+        <item>National</item>
+        <item>Economy</item>
+        <item>Sports</item>
+        <item>Technology</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">New Session</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log In or Register</string>
+    <string name="action_sign_in_short">New Session</string>
+    <string name="welcome">Welcome</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be longer than 5 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="button_login">Log In</string>
+    <string name = "imagenModify">Choose Image</string>
+    <string name = "titleModify">Title</string>
+    <string name = "subtitleModify">Subtitle</string>
+    <string name = "abstractModify">Abstract</string>
+    <string name = "bodyModify">Body</string>
+    <string name = "chooseCategoryModify">Choose Category</string>
+    <string name = "saveModify">Save</string>
+    <string name = "cancelModify">Cancel</string>
+    <string name = "confirm_deleting">Are you sure to delete the article?</string>
+    <string name = "error_deleting">An error has occurred while deleting the article</string>
+    <string name = "deleted">Deleted Successfully</string>
+    <string name = "cancel">Cancel</string>
+    <string name = "accept">Accept</string>
+    <string name = "discard_changes">Discard changes?</string>
+    <string name = "article_modified">The article has been modified successfully</string>
+    <string name = "article_not_modified">Failed while modifying the article</string>
+    <string name = "modify_article">Sure you want to modify it?</string>
+    <string name = "descriptionImage">Image Description *</string>
+    <string name = "titleMandatory">Title *</string>
+    <string name = "subTitleMandatory">Subtitle *</string>
+    <string name = "abstractMandatory">Abstract *</string>
+    <string name = "bodyMandatory">Body *</string>
+
+    <string name="title_activity_modify_article_after_login">Modify Article</string>
+</resources>

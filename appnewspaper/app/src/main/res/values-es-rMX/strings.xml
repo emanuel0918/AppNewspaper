@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEWSPAPER APP</string>
+    <string name="newspaper">Noticias</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="add_new">Agregar Noticia</string>
+    <string name="list_news">Listado de Noticias</string>
+    <string name="more_options">Más Opciones</string>
+    <string name="list_local_news">Mis Noticias</string>>
+    <string name="title">Título</string>
+    <string name="subtitle">Subtítulo</string>
+    <string name="category">Categoría</string>
+    <string name="abstrac">Resumen</string>
+    <string name="body">Cuerpo</string>
+    <string name="image">Imagen</string>
+    <string name="description">Descripción</string>
+    <string name="missing_data">Campo Faltante</string>
+    <string name="new_published">Artículo Creado</string>
+    <string name="remember_me">Recuérdame</string>
+    <string name="required_data">Campo necesario</string>
+    <string name="warning">Atención</string>
+    <string name="data_incorrect">Datos incorrectos</string>
+    <string name="ok">Ok</string>
+    <string name="error_transaction">Error en la operación</string>
+    <string name="error_server_login">No se puede iniciar sesión sin una conexión</string>
+    <string name="error_server_add">No se puede agregar sin una conexión</string>
+    <string name="error_server_modify">No se puede modificar sin una conexión</string>
+    <string name="error_server_delete">Se ha borrado el artículo en la copia local</string>
+    <string name="loading_articles">Esperando a descargar los artículos</string>
+    <string name="title_activity_modify_article_after_login">Modificar Articulo</string>
+    <string name="category_name">Categorias</string>
+    <string name="category_name1">Nacional</string>
+    <string name="category_name2">Economia</string>
+    <string name="category_name3">Deportes</string>
+    <string name="category_name4">Tecnologia</string>
+    <string name="category_name_all">Todo</string>
+    <string-array name="category">
+        <item>Nacional</item>
+        <item>Economia</item>
+        <item>Deportes</item>
+        <item>Tecnologia</item>
+    </string-array>    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_login">Nueva Sesión</string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión o Registrarse</string>
+    <string name="action_sign_in_short">Nueva Sesión</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="invalid_username">Usuario no válido</string>
+    <string name="invalid_password">La contraseña debe superar 5 caracteres</string>
+    <string name="login_failed">Error en Inicio de Sesión</string>
+    <string name="button_login">Iniciar Sesión</string>
+    <string name = "imagenModify">Elegir Imagen</string>
+    <string name = "titleModify">Título</string>
+    <string name = "subtitleModify">Subtítulo</string>
+    <string name = "abstractModify">Resumen</string>
+    <string name = "bodyModify">Cuerpo</string>
+    <string name = "chooseCategoryModify">Elegir Categoría</string>
+    <string name = "saveModify">Guardar</string>
+    <string name = "cancelModify">Cancelar</string>
+    <string name = "cancel">Cancelar</string>
+    <string name = "accept">Aceptar</string>
+    <string name = "discard_changes">¿Descartar los cambios?</string>
+    <string name = "article_modified">El artículo ha sido modificado</string>
+    <string name = "article_not_modified">Error modificando el articulo</string>
+    <string name = "modify_article">¿Descartar los cambios?</string>
+    <string name = "confirm_deleting">¿Estás seguro?</string>
+    <string name = "error_deleting">Error eliminando el registro</string>
+    <string name = "deleted">Eliminado correctamente</string>
+    <string name = "descriptionImage">Descripción de Imagen *</string>
+    <string name = "titleMandatory">Título *</string>
+    <string name = "subTitleMandatory">Subtítulo *</string>
+    <string name = "abstractMandatory">Resumen *</string>
+    <string name = "bodyMandatory">Cuerpo *</string>
+
+</resources>

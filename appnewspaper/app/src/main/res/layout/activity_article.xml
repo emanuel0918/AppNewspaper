@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layaoutArticle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity_article">
+
+    <android.support.v4.widget.NestedScrollView
+        android:id="@+id/nestedScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imageViewArticle"
+                android:layout_width="406dp"
+                android:layout_height="177dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="22dp"
+                android:src="@mipmap/img_article"/>
+
+            <TextView
+                android:id="@+id/categoryArticle"
+                android:layout_width="130dp"
+                android:layout_height="25dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="7dp"
+                android:layout_marginEnd="265dp"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/subtitleArticle2"
+                android:layout_width="379dp"
+                android:layout_height="69dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="11dp"
+                android:layout_marginEnd="16dp"
+                android:layout_marginBottom="10dp" />
+
+            <TextView
+                android:id="@+id/titleArticleSelect"
+                android:layout_width="345dp"
+                android:layout_height="32dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="51dp"
+                android:layout_marginBottom="19dp"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/bodyArticle2"
+                android:layout_width="388dp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp" />
+
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+    <!--
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/login_floating_btn"
+        android:layout_marginRight="@dimen/floating_btn_padding"
+        android:layout_marginBottom="@dimen/floating_btn_padding"
+        android:src="@drawable/ic_add"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+        -->
+
+</android.support.constraint.ConstraintLayout>
